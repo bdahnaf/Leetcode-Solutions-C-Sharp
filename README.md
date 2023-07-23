@@ -65,7 +65,7 @@ This repository is open-source and available under the [MIT License](LICENSE). F
 Connect with me on social media or reach out via email:
 
 - LinkedIn: [Ahnaf Shahriar](https://www.linkedin.com/in/bdsakib/)
-- Facebook: [YourFacebookProfile](https://www.facebook.com/bdsakib/)
+- Facebook: [Ahnaf Shahriar](https://www.facebook.com/bdsakib/)
 - Email: [bdahnaf@gmail.com](mailto:bdahnaf@gmail.com)
 
 Happy coding! :rocket:
