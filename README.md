@@ -39,7 +39,7 @@ If you are interested in exploring my solutions, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp.git
 ```
 
 2. Navigate to the relevant folder based on the topic or problem you want to explore.
