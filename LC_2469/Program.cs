@@ -12,6 +12,7 @@
                 Console.WriteLine(val);
             }
         }
+
         public double[] ConvertTemperature(double celsius)
         {
             double[] ans = new double[2];
