@@ -26,11 +26,10 @@ However, solving enough problems I'll restructure it based on different categori
 
 Here is a list of the problems available in this repository, along with direct links to their respective LeetCode pages:
 
-| Problem Name                                  | LeetCode Link                                     |
+| Problem Name                                  | Solution                                    | 
 |-----------------------------------------------|---------------------------------------------------|
-| 1929. Concatenation of Array                                     | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)       |
-| Problem 2                                     | [Link to Problem 2](https://leetcode.com/)       |
-| ...                                           | ...                                               |
+| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1929)
+
 
 ## How to Use
 
