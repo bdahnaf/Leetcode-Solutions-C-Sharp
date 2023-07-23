@@ -29,6 +29,7 @@ Here is a list of the problems available in this repository, along with direct l
 | Problem Name                                  | Solution                                    | 
 |-----------------------------------------------|---------------------------------------------------|
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1929)
+| [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2469)
 
 
 ## How to Use
