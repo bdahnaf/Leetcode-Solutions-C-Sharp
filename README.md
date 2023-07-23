@@ -17,6 +17,7 @@ The repository is organized into folders based on different problems. Each folde
 
 - `1310/`: Solutions for problem #1310.
 - `450/`: Solutions for problem #450.
+
 However, solving enough problems I'll restructure it based on different categories. Like:
 - `LinkedList/`: Solutions for linked list problems.
 - `Arrays/`: Solutions for array problems.
@@ -40,6 +41,7 @@ If you are interested in exploring my solutions, follow these steps:
 ```bash
 git clone https://github.com/YourUsername/YourRepository.git
 ```
+
 2. Navigate to the relevant folder based on the topic or problem you want to explore.
 
 3. Review the C# solution files to see how I approached and solved the problems.
