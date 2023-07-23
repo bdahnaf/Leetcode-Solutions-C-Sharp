@@ -28,7 +28,7 @@ Here is a list of the problems available in this repository, along with direct l
 
 | Problem Name                                  | LeetCode Link                                     |
 |-----------------------------------------------|---------------------------------------------------|
-| Problem 1                                     | [Link to Problem 1](https://leetcode.com/)       |
+| 1929. Concatenation of Array                                     | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)       |
 | Problem 2                                     | [Link to Problem 2](https://leetcode.com/)       |
 | ...                                           | ...                                               |
 
