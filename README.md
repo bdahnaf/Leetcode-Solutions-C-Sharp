@@ -30,7 +30,7 @@ Here is a list of the problems available in this repository, along with direct l
 |-----------------------------------------------|---------------------------------------------------|
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1929)
 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2469)
-
+| [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1672)
 
 ## How to Use
 
