@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();
+            program.SmallestEvenMultiple(2);
+        }
+        public int SmallestEvenMultiple(int n)
+        {
+            if (n % 2 == 0) return n;
+            else return 2 * n;
         }
     }
 }
