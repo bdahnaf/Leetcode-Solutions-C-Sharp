@@ -32,7 +32,7 @@ Here is a list of the problems available in this repository, along with direct l
 | [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2469)
 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1672)
 | [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2413)
-| [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_114)
+| [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2114)
 
 ## How to Use
 
