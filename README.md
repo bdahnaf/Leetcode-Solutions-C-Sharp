@@ -35,6 +35,7 @@ Here is a list of the problems available in this repository, along with direct l
 | [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2114)
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_412)
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1342)
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_20)
 
 ## How to Use
 
