@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();
+            program.NumberOfSteps(6);
+        }
+        public int NumberOfSteps(int num)
+        {
+            return 0;
         }
     }
 }
