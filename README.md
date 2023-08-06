@@ -15,8 +15,8 @@ Welcome to my public repository that contains my C# solutions to various LeetCod
 
 The repository is organized into folders based on different problems. Each folder contains the C# solutions for the corresponding problems. Here's an overview of the structure:
 
-- `1310/`: Solutions for problem #1310.
-- `450/`: Solutions for problem #450.
+- `LC_1310/`: Solutions for problem #1310.
+- `LC_450/`: Solutions for problem #450.
 
 However, solving enough problems I'll restructure it based on different categories. Like:
 - `LinkedList/`: Solutions for linked list problems.
