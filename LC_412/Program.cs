@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            
+            Program program = new Program();
+            program.FizzBuzz(3);
         }
         public IList<string> FizzBuzz(int n)
         {
