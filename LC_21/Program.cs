@@ -21,6 +21,9 @@
         public ListNode MergeTwoLists(ListNode list1, ListNode list2)
         {
             ListNode mergedList = new ListNode();
+            Console.WriteLine(list1.val);
+            Console.WriteLine(list1.next.val);
+            Console.WriteLine(list2.val);
             return mergedList;
         }
     }
