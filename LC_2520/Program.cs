@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();
+            Console.WriteLine(program.CountDigits(141));
+        }
+        public int CountDigits(int num)
+        {
+
+            return 0;
         }
     }
 }
