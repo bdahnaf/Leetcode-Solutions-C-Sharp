@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();
+            Console.WriteLine(program.SumOfMultiples(7));
+        }
+        public int SumOfMultiples(int n)
+        {
+            return 0;
         }
     }
 }
