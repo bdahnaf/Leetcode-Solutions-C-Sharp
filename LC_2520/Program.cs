@@ -5,15 +5,23 @@
         static void Main(string[] args)
         {
             Program program = new Program();
-            Console.WriteLine(program.CountDigits(141));
+            Console.WriteLine(program.CountDigits(7));
         }
         public int CountDigits(int num)
         {
-            for (int i = 0; i < num; i++)
+            int originalNum = num;
+            int rem = 0;
+            int ans = 0;
+            while(num > 0)
             {
-
+                rem = num % 10;
+                num /= 10;
+                if(originalNum % rem == 0)
+                {
+                    ans++;
+                }
             }
-            return 0;
+            return ans;
         }
     }
 }

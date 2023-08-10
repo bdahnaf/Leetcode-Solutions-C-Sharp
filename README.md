@@ -38,6 +38,10 @@ Here is a list of the problems available in this repository, along with direct l
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_20)
 | [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2798)
 | [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2652)
+| [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2520)
+| [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1859)
+| [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2810)
+| [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1323)
 
 ## How to Use
 
