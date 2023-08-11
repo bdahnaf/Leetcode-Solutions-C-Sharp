@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Program program = new Program();
-            Console.WriteLine(program.CountDigits(7));
+            Console.WriteLine(program.CountDigits(100));
         }
         public int CountDigits(int num)
         {
