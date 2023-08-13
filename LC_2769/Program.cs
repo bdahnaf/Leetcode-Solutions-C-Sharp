@@ -4,11 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();
+            Console.WriteLine(program.TheMaximumAchievableX(4, 1));
         }
         public int TheMaximumAchievableX(int num, int t)
         {
-            return 0;
+            int ans = num + t + t;
+            return ans;
         }
     }
 }
