@@ -26,24 +26,24 @@ However, solving enough problems I'll restructure it based on different categori
 
 Here is a list of the problems available in this repository, along with direct links to their respective LeetCode pages:
 
-| Problem Name                                  | Solution                                    | 
-|-----------------------------------------------|---------------------------------------------------|
-| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1929)
-| [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2469)
-| [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1672)
-| [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2413)
-| [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2114)
-| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_412)
-| [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1342)
-| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_20)
-| [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2798)
-| [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2652)
-| [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2520)
-| [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1859)
-| [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2810)
-| [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1323)
-| [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2769)
-| [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2574)
+SL. | Problem Name                                  | Solution                                    | 
+----|-----------------------------------------------|---------------------------------------------------|
+001.| [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1929)
+002.| [2469. Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2469)
+003.| [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1672)
+004.| [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2413)
+005.| [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2114)
+006.| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_412)
+007.| [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1342)
+008.| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_20)
+009.| [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2798)
+010.| [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2652)
+011.| [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2520)
+012.| [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1859)
+013.| [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2810)
+014.| [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1323)
+015.| [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2769)
+016.| [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2574)
 
 ## How to Use
 
