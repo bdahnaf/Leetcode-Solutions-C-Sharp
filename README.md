@@ -42,6 +42,7 @@ Here is a list of the problems available in this repository, along with direct l
 | [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1859)
 | [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2810)
 | [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1323)
+| [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2769)
 
 ## How to Use
 
