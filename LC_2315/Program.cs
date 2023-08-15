@@ -31,7 +31,7 @@
                 }
             }
             Console.WriteLine(ans);
-            return 0;
+            return ans;
         }
     }
 }
