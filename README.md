@@ -46,6 +46,7 @@ SL. | Problem Name                                  | Solution                  
 016.| [2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2574)
 017.| [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1389)
 018.| [1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1732)
+019.| [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2315)
 
 ## How to Use
 
