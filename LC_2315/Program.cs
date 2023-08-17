@@ -24,14 +24,14 @@
                 {
                     firstP = 1;
                 }
-                else if (s[i] == '*')
-                {
-                    ans++;
-                    if (firstP == 1)
-                    {
-                        sAns++;
-                    }
-                }
+                //else if (s[i] == '*')
+                //{
+                //    ans++;
+                //    if (firstP == 1)
+                //    {
+                //        sAns++;
+                //    }
+                //}
             }
             return ans;
         }
