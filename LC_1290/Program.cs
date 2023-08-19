@@ -12,7 +12,13 @@
         }
         public int GetDecimalValue(ListNode head)
         {
-            return 0;
+            int result = 0;
+            while (head != null)
+            {
+                result = (result << 1) | head.val;
+                head = head.next;
+            }
+            return result;
         }
     }
     public class ListNode
