@@ -12,6 +12,10 @@
         }
         public int VowelStrings(string[] words, int left, int right)
         {
+            for(int i = left; i <= right; i++)
+            {
+                Console.WriteLine(words[i][0]);
+            }
             return 0;
         }
     }
