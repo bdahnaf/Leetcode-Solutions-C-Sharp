@@ -5,10 +5,12 @@
         static void Main(string[] args)
         {
             Program program = new Program();
-            Console.WriteLine(program.MinDeletionSize(string[] { "cba","daf","ghi" });
+            string[] strs = { "cba", "daf", "ghi" };
+            Console.WriteLine(program.MinDeletionSize(strs));
         }
         public int MinDeletionSize(string[] strs)
         {
+
             return 0;
         }
     }
