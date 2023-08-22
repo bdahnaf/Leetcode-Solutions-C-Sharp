@@ -5,23 +5,28 @@
         static void Main(string[] args)
         {
             Program program = new Program();
-            string[] strs = { "cba", "daf", "ghi" };
+            string[] strs = { "zyx","wvu","tsr" };
             Console.WriteLine(program.MinDeletionSize(strs));
         }
         public int MinDeletionSize(string[] strs)
         {
-            int len = strs.Length;
-            int slen = strs[0].Length;
-            for(int i = 0; i < len; i++)
-            {
-                for(int j = 0; j < slen; j++)
-                {
+            int rowCount = strs.Length;
+            int colCount = strs[0].Length;
+            int deleteCount = 0;
 
+            for (int col = 0; col < colCount; col++)
+            {
+                for (int row = 1; row < rowCount; row++)
+                {
+                    if (strs[row][col] < strs[row - 1][col])
+                    {
+                        deleteCount++;
+                        break;
+                    }
                 }
             }
-            Console.WriteLine(slen);
-            Console.WriteLine(len);
-            return 0;
+
+            return deleteCount;
         }
     }
 }
