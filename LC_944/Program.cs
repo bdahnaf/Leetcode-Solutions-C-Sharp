@@ -12,6 +12,13 @@
         {
             int len = strs.Length;
             int slen = strs[0].Length;
+            for(int i = 0; i < len; i++)
+            {
+                for(int j = 0; j < slen; j++)
+                {
+
+                }
+            }
             Console.WriteLine(slen);
             Console.WriteLine(len);
             return 0;
