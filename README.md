@@ -52,6 +52,7 @@ SL. | Problem Name                                  | Solution                  
 022.| [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_1290)
 023.| [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2363)
 024.| [2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2586)
+024.| [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_944)
 
 ## How to Use
 
