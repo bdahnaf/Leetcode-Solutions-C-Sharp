@@ -10,7 +10,10 @@
         }
         public int MinDeletionSize(string[] strs)
         {
-
+            int len = strs.Length;
+            int slen = strs[0].Length;
+            Console.WriteLine(slen);
+            Console.WriteLine(len);
             return 0;
         }
     }
