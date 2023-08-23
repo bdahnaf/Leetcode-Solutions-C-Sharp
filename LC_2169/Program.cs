@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Program program = new Program();
+            program.CountOperations(2, 3);
+        }
+        public int CountOperations(int num1, int num2)
+        {
+            int ans = 0;
+            return ans;
         }
     }
 }
