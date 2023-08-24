@@ -14,53 +14,27 @@
         }
         public int[] PlusOne(int[] digits)
         {
-            List<int> result = new List<int>();
-            int carry = 0;
-            if(digits.Length == 1)
+            int carry = 1;
+
+            for (int i = digits.Length - 1; i >= 0; i--)
             {
-                if (digits[0] == 9)
-                {
-                    result.Add(1);
-                    result.Add(0);
-                    return result.ToArray();
-                }
-                else
-                {
-                    result.Add(digits[0] + 1);
-                    return result.ToArray();
-                }
+                int sum = digits[i] + carry;
+                digits[i] = sum % 10; // Update current digit
+                carry = sum / 10; // Update carry
+            }
+
+            // If there's still a carry after processing all digits
+            if (carry > 0)
+            {
+                int[] result = new int[digits.Length + 1];
+                result[0] = carry;
+                Array.Copy(digits, 0, result, 1, digits.Length);
+                return result;
             }
             else
             {
-                for(int i = digits.Length - 1; i <= 0; i--)
-                {
-                    Console.WriteLine(digits[i]);
-                }
-                //foreach (int digit in digits)
-                //{
-                //    if (digit == 9)
-                //    {
-                //        result.Add(0);
-                //        carry = 1;
-                //    }
-                //    else
-                //    {
-                //        if(carry == 1)
-                //        {
-                //            result.Add(digit+1);
-                //        }
-                //        else
-                //        {
-                //            result.Add(digit);
-                //        }
-                //    }
-                //}
-                if(carry == 1)
-                {
-                    result.Add(1);
-                }
+                return digits;
             }
-            return result.ToArray();
         }
     }
 }
