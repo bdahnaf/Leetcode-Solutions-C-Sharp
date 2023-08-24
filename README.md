@@ -54,6 +54,7 @@ SL. | Problem Name                                  | Solution                  
 024.| [2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2586)
 025.| [944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_944)
 026.| [2169. Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_2169)
+027.| [66. Plus One](https://leetcode.com/problems/plus-one) | [Solution](https://github.com/bdahnaf/Leetcode-Solutions-C-Sharp/tree/main/LC_66)
 
 ## How to Use
 
